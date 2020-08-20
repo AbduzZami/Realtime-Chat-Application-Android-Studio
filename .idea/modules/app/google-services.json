@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1049522453615",
+    "firebase_url": "https://pijeonchat-b236f.firebaseio.com",
+    "project_id": "pijeonchat-b236f",
+    "storage_bucket": "pijeonchat-b236f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049522453615:android:6a4549b50d8cfb5a9aa19a",
+        "android_client_info": {
+          "package_name": "com.example.pijeonchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049522453615-cvg3lb8ub49u0d83gpl4ibu15638qu2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pijeonchat",
+            "certificate_hash": "f38ce3dba830366a1762ec174a1cd1ea8161f33c"
+          }
+        },
+        {
+          "client_id": "1049522453615-9onqf79mk79pidfpc4rvs89ir1ane8ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Ch50HTDimy1GdbjqSi_Dn2GyDqXSvlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049522453615-9onqf79mk79pidfpc4rvs89ir1ane8ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
